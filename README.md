@@ -54,7 +54,7 @@ npm install -g @cartesi/cli
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/chimdichukwuchebe24/q-jobs-dapp.git
+   git clone https://github.com/johns-collab/Decentralized-Job-Marketplace
    ```
 
    Navigate into the project directory:
@@ -223,4 +223,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Author
 
-Developed by **Victor Ifeanyi Chukwujiobi**. For more projects and contributions, visit my [GitHub](https://github.com/victorifeanyichukwujiobi).
+Developed by Ifeatu johnson. For more projects and contributions, visit my [GitHub](https://github.com/johns-collab).
