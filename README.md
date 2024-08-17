@@ -60,7 +60,7 @@ npm install -g @cartesi/cli
    Navigate into the project directory:
 
    ```bash
-   cd q-jobs-dapp
+   cd job-market-dapp
    ```
 
 2. **Install Dependencies:**
